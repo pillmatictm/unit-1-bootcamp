@@ -44,7 +44,7 @@ ex: makeKitten(garfield, catwoman) returns a Cat named "GarfieldCatwoman" with a
 
 #### 5. Adoption
 
-Write a method called `adoption` that takes 1 Cat and 1 Person as a paramater and sets the Cat's owner to be the Person.
+Write a method called `adoption` that takes 1 Cat and 1 Person as a parameter and sets the Cat's owner to be the Person.
 
 ```
 ex: Person jon = Person('Jon');
